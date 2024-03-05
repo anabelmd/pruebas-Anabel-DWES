@@ -72,7 +72,7 @@ En mi caso yo ya lo tengo hecho en casa y en clase.
 
 **5. El uso de Markdown para la documentación en el archivo README.md**
 
-![Imagen](img/5/captura1.png)
+![Imagen](img/5/captura1.PNG)
 
 **6. En el trabajo deben aparecer las URLs del repositorio en GitHub.**
 
